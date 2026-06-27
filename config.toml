@@ -36,30 +36,32 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Technical"
         [[params.skills.list.items]]
-        details = "JavaScript/Angular/React/Vue"
+        details = "Python"
         [[params.skills.list.items]]
-        details = "Python/Ruby/PHP"
+        details = "Blender scripting and development"
         [[params.skills.list.items]]
-        details = "Node.js/ASP.NET"
+        details = "Flutter/Dart"
         [[params.skills.list.items]]
-        details = "PostgreSQL/MySQL"
+        details = "JS/Typescript/Node/React"
         [[params.skills.list.items]]
-        details = "Object-oriented design"
+        details = "HTML/CSS/SCSS"
         [[params.skills.list.items]]
-        details = "Design and implement database structures"
+        details = "Rust"
         [[params.skills.list.items]]
-        details = "Lead and deliver complex software systems"
+        details = "GTK4 (using Python)"
+        [[params.skills.list.items]]
+        details = "Qt (C++ / QML)"
 
         [[params.skills.list]]
         title = "Professional"
         [[params.skills.list.items]]
         details = "Effective communication"
         [[params.skills.list.items]]
-        details = "Team player"
+        details = "Efficient planning and handling of complex problems"
         [[params.skills.list.items]]
-        details = "Strong problem solver"
+        details = "Good Organizational skills"
         [[params.skills.list.items]]
-        details = "Good time management"
+        details = "Detail Oriented"
 
 
 
@@ -72,13 +74,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
-        university = "University College London"
-        dates = "2010 - 2011"
-        [[params.education.list]]
-        degree = "BSc Maths and Physics"
-        university = "Imperial College London"
-        dates = "2007 - 2010"
+        degree = "M.A. in Graphic Design"
+        university = "Universidad Argentina De la Empresa"
+        dates = "2004 - 2009"
 
 
 
@@ -88,7 +86,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.awards]
-        enable = true
+        enable = false
 
         [[params.awards.list]]
         name = "Award Lorem Ipsum"
@@ -214,7 +212,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
     [params.information]
-        enable = true
+        enable = false
 
         [[params.information.list]]
         title = "Papers"
