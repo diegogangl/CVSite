@@ -17,7 +17,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     [params.profile]
         enable = true
         name = "Diego Garcia Gangl"
-        tagline = "Senior Software Engineer"
+        tagline = "Developer & Designer"
         avatar = "avatar.png"
 
     [params.contact]
