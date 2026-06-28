@@ -114,9 +114,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.interests.list]]
-        name = "Climbing"
+        name = "Drawing / 3D Art"
         [[params.interests.list]]
-        name = "Snowboarding"
+        name = "Free Software / Open Source"
         [[params.interests.list]]
         name = "Photography"
         [[params.interests.list]]
@@ -224,6 +224,24 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.information.list]]
         title = "Interests"
         details = "Climbing, Snowboarding, Photography, Travelling"
+
+    [params.links]
+        enable = true
+
+        [[params.links.list]]
+        icon = "fab fa-github"
+        url = "//github.com/diegogangl"
+        title = "Github"
+
+        [[params.links.list]]
+        icon = "fab fa-upwork"
+        url = "//github.com/diegogangl"
+        title = "Upwork Profile"
+
+        [[params.links.list]]
+        icon = "fab fa-artstation"
+        url = "//github.com/diegogangl"
+        title = "Artstation"
 
 
     # [params.social]

@@ -201,6 +201,18 @@ footer {
 	margin-top: 2rem;
 }
 
+.resume-link svg {
+	font-size: 1.25rem;
+}
+
+a.resume-link  {
+	text-decoration: none !important;
+}
+
+.resume-link span {
+	vertical-align: text-top;
+}
+
 
 // Medium devices (tablets, less than 992px)
 @media (max-width: 991.98px) {
