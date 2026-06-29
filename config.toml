@@ -237,6 +237,11 @@ googleAnalytics = "UA-XXXXXXX-Y"
         url = "//github.com/diegogangl"
         title = "Blog & Tutorials"
 
+        [[params.links.list]]
+        icon = "fab fa-youtube"
+        url = "//github.com/diegogangl"
+        title = "Youtube Channel"
+
 
     # [params.social]
     #     enable = true
