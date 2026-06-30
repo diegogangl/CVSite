@@ -112,21 +112,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         name = "Travelling"
 
 
-
-
-
-
-
-
     [params.summary]
         enable = true
-        text = "Summarise your career here. Donec quam felis, ultricies nec, pellentesque eu. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.  Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh."
-
-
-
-
-
-
+        text = "Hi! I am a graphic designer turned developer. Over the years, I've worked on graphic design, web design, 3D modelling/lighting, Python scripting, and more recently, mobile development. While user interfaces have always been my passion and focus, I've also worked on backends such as HTTP/WebSocket servers, geometric algorithms for 3D processing/generations, as well as glue code for libraries. I consider myself a quick learner and fast to adapt."
 
 
     [params.experience]
@@ -184,21 +172,21 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "Render+"
         meta = "Open Source (Commercial)"
-        tagline = "A commercial Blender addon to make rendering easier. It provides features for regular renders, like shutting down the PC after rendering, as well as batch rendering. It allows users to queue render jobs, set custom options for each, and even override any datablock in the scene with a simple GUI."
+        tagline = "A commercial Blender add-on to make rendering easier. It provides features for regular renders, such as shutting down the PC after rendering, as well as batch rendering. It allows users to queue render jobs, set custom options for each, and even override any datablock in the scene with a simple GUI."
         url = "//superhivemarket.com/products/render"
         link = "Product Page"
 
         [[params.projects.list]]
         title = "GTG"
         meta = "Open Source"
-        tagline = "Task organization application for the Gnome desktop, written in Python using GTK4. I took over in XXXX as the code maintainer. Afterwards I finished the migration to Gtk3, a transition to lxml and a cleaner file format. Currently finishing a complete rewrite of the core logic along with a migration to Gtk4."
+        tagline = "Task organization application for the GNOME desktop, written in Python using GTK4. I took over as the code maintainer in XXXX. Afterwards, I finished the migration to Gtk3, a transition to lxml and a cleaner file format. Currently finishing a complete rewrite of the core logic along with a migration to GTK4."
         url = "//github.com/getting-things-gnome/gtg"
         link = "Github Repo"
 
         [[params.projects.list]]
         title = "Pangu"
         meta = "Open Source"
-        tagline = "Terrain Generation engine using fractal noise with support for hydraulic and thermal erosion. Written in Rust and exposed as Python module using PyO3. It was used in a Blender addon called Mirage. I've discontinued the addon as I didn't have time to maintain it, but I kept the engine public as study material for others."
+        tagline = "Terrain Generation engine using fractal noise with support for hydraulic and thermal erosion. Written in Rust and exposed as a Python module using PyO3. It was used in a Blender add-on called Mirage. I've discontinued the add-on as I didn't have time to maintain it, but I kept the engine public as study material for others."
         url = "//github.com/diegogangl/Pangu"
         link = "Github Repo"
 
