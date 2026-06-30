@@ -179,7 +179,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "GTG"
         meta = "Open Source"
-        tagline = "Task organization application for the GNOME desktop, written in Python using GTK4. I took over as the code maintainer in XXXX. Afterwards, I finished the migration to Gtk3, a transition to lxml and a cleaner file format. Currently finishing a complete rewrite of the core logic along with a migration to GTK4."
+        tagline = "Task organization application for the GNOME desktop, written in Python using GTK4. I took over as the code maintainer in late 2019. Afterwards, I finished the migration to Gtk3, a transition to lxml and a cleaner file format. Currently finishing a complete rewrite of the core logic along with a migration to GTK4."
         url = "//github.com/getting-things-gnome/gtg"
         link = "Github Repo"
 
