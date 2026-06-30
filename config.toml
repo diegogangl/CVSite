@@ -199,7 +199,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Pangu"
         meta = "Open Source"
         tagline = "Terrain Generation engine using fractal noise with support for hydraulic and thermal erosion. Written in Rust and exposed as Python module using PyO3. It was used in a Blender addon called Mirage. I've discontinued the addon as I didn't have time to maintain it, but I kept the engine public as study material for others."
-        url = "//github.com/getting-things-gnome/gtg"
+        url = "//github.com/diegogangl/Pangu"
         link = "Github Repo"
 
 
