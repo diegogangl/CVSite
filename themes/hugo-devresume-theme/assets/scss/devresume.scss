@@ -210,6 +210,10 @@ a.resume-link  {
 	text-decoration: none !important;
 }
 
+a.resume-link:hover  span{
+	color: $theme-color-primary !important;
+}
+
 .resume-link span {
 	vertical-align: text-top;
 }
