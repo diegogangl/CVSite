@@ -224,22 +224,22 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.links.list]]
         icon = "fab fa-upwork"
-        url = "//github.com/diegogangl"
+        url = "//upwork.com/freelancers/~011d0c92b8afb2bfc5?mp_source=share"
         title = "Upwork Profile"
 
         [[params.links.list]]
         icon = "fab fa-artstation"
-        url = "//github.com/diegogangl"
+        url = "//artstation.com/januz"
         title = "Artstation"
 
         [[params.links.list]]
         icon = "fab fa-wordpress-simple"
-        url = "//github.com/diegogangl"
+        url = "//sinestesia.co/tutorials"
         title = "Blog & Tutorials"
 
         [[params.links.list]]
         icon = "fab fa-youtube"
-        url = "//github.com/diegogangl"
+        url = "//"
         title = "Youtube Channel"
 
 
