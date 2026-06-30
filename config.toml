@@ -184,17 +184,23 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "Render+"
         meta = "Open Source (Commercial)"
-        tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        tagline = "A commercial Blender addon to make rendering easier. It provides features for regular renders, like shutting down the PC after rendering, as well as batch rendering. It allows users to queue render jobs, set custom options for each, and even override any datablock in the scene with a simple GUI."
+        url = "//superhivemarket.com/products/render"
+        link = "Product Page"
 
         [[params.projects.list]]
         title = "GTG"
         meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        tagline = "Task organization application for the Gnome desktop, written in Python using GTK4. I took over in XXXX as the code maintainer. Afterwards I finished the migration to Gtk3, a transition to lxml and a cleaner file format. Currently finishing a complete rewrite of the core logic along with a migration to Gtk4."
+        url = "//github.com/getting-things-gnome/gtg"
+        link = "Github Repo"
 
         [[params.projects.list]]
         title = "Pangu"
         meta = "Open Source"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        tagline = "Terrain Generation engine using fractal noise with support for hydraulic and thermal erosion. Written in Rust and exposed as Python module using PyO3. It was used in a Blender addon called Mirage. I've discontinued the addon as I didn't have time to maintain it, but I kept the engine public as study material for others."
+        url = "//github.com/getting-things-gnome/gtg"
+        link = "Github Repo"
 
 
 
@@ -239,7 +245,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.links.list]]
         icon = "fab fa-youtube"
-        url = "//"
+        url = "//youtube.com/@SinestesiaCo"
         title = "Youtube Channel"
 
 
