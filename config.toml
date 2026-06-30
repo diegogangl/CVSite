@@ -145,9 +145,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         # details = "Etiam ultricies nisi vel augue."
 
         [[params.experience.list]]
-        title = "Freelance Python Developer"
-        dates = "2016 - 2022"
-        # company = "Apple"
+        title = "Python Developer"
+        dates = "2016 - Present"
+        company = "Freelance"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
         [[params.experience.list.items]]
         details = "Lorem ipsum dolor sit amet, consectetuer."
@@ -155,9 +155,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Aenean commodo ligula eget dolor."
 
         [[params.experience.list]]
-        title = "Freelance 3D Artist"
+        title = "3D Artist"
         dates = "2016 - 2022"
-        # company = "Apple"
+        company = "Freelance"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
         [[params.experience.list.items]]
         details = "Lorem ipsum dolor sit amet, consectetuer."
@@ -165,9 +165,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         details = "Aenean commodo ligula eget dolor."
 
         [[params.experience.list]]
-        title = "Freelance Web Designer/Developer"
+        title = "Web Designer/Developer"
         dates = "2014 - 2016"
-        # company = "Dropbox"
+        company = "Freelance"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
 
         [[params.experience.list]]
