@@ -9,7 +9,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 [params]
     author = "Diego Garcia Gangl"
-    description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
+    description = "Resume for Diego Garcia Gangl"
 
     primaryColor = "#f38225"
     textPrimaryColor = "#292929"
