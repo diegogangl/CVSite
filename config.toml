@@ -1,8 +1,8 @@
 # Page settings
 
-baseURL = "http://diegogarcia.ar/"
+baseURL = "https://diegogarcia.ar/"
 languageCode = "en"
-title = ""
+title = "Diego Garcia Gangl - Resume"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
