@@ -18,7 +18,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Diego Garcia Gangl"
         tagline = "Developer & Designer"
-        avatar = "avatar.png"
+        avatar = "avatar_mine.png"
 
     [params.contact]
         enable = true
@@ -122,9 +122,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
         [[params.experience.list]]
         title = "Blender Addon Developer"
-        dates = "2019 - 2026"
+        dates = "2018 - 2026"
         company = "Virtamed"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
+        details = "I worked on custom tools for the 3D modelers in the team. This includes code to generate and analyze tetrameshes, generating vertex groups for specific scenarios, importing and exporting propietary and custom file formats, creating interfaces for geometric libraries (from C to Python), and creating a custom nodes system to automate exporting to a propietary engine."
         # [[params.experience.list.items]]
         # details = "Lorem ipsum dolor sit amet, consectetuer."
         # [[params.experience.list.items]]
@@ -133,30 +133,28 @@ googleAnalytics = "UA-XXXXXXX-Y"
         # details = "Etiam ultricies nisi vel augue."
 
         [[params.experience.list]]
+        title = "UX Design/Developer"
+        dates = "2021 - Present"
+        company = "Astraios"
+        details = "My role in Astraios involves designing, coding and maintaining the administration dashboard, the customer's app and the internal guards app. These were originally developed in React and React native, currently I am finishing porting them to Flutter to improve maintainabilty and performance."
+
+        [[params.experience.list]]
         title = "Python Developer"
-        dates = "2016 - Present"
+        dates = "2014 - Present"
         company = "Freelance"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
-        [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
-        [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "My experience includes developing servers using Flask/Bottle and scripting for Blender (simple scripts, drivers and addons). I've worked on automating pipelines (from base model to 3D print), consulting and reviewing, automating the generation and rendering of objects and scenes, as well as importing less known file formats into Blender. "
 
         [[params.experience.list]]
         title = "3D Artist"
-        dates = "2016 - 2022"
+        dates = "2014 - 2020"
         company = "Freelance"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
-        [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
-        [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "My work was based on Blender and involved an educational VR project, motion graphics and templates for scientific visualization."
 
         [[params.experience.list]]
         title = "Web Designer/Developer"
-        dates = "2014 - 2016"
+        dates = "2009 - 2015"
         company = "Freelance"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        details = "I developed for like Wordpress, Drupal, Joomla, as well as some static websites. My work involved setup, design and theme development."
 
         [[params.experience.list]]
         title = "Junior Graphic/Web Designer"
