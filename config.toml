@@ -63,6 +63,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list.items]]
         details = "Detail Oriented"
         [[params.skills.list.items]]
+        details = "Long experience working with remote teams"
+        [[params.skills.list.items]]
         details = "Fast Learner"
 
 
@@ -114,7 +116,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "Hi! I am a graphic designer turned developer. Over the years, I've worked on graphic design, web design, 3D modelling/lighting, Python scripting, and more recently, mobile development. While user interfaces have always been my passion and focus, I've also worked on backends such as HTTP/WebSocket servers, geometric algorithms for 3D processing/generations, as well as glue code for libraries. I consider myself a quick learner and fast to adapt."
+        text = "Hi! I am a graphic designer and developer. Over the years, I've worked on graphic design, web design, 3D modelling/lighting, Python scripting, and more recently, mobile development. While user interfaces have always been my passion and focus, I've also worked on backends such as HTTP/WebSocket servers, geometric algorithms for 3D processing/generations, as well as glue code for libraries. I consider myself a quick learner and fast to adapt."
 
 
     [params.experience]
@@ -124,7 +126,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Blender Addon Developer"
         dates = "2018 - 2026"
         company = "Virtamed"
-        details = "I worked on custom tools for the 3D modelers in the team. This includes code to generate and analyze tetrameshes, generating vertex groups for specific scenarios, importing and exporting proprietary and custom file formats, creating interfaces for geometric libraries (from C to Python), and creating a custom nodes system to automate exporting to a proprietary engine."
+        details = "I worked on custom tools for the 3D modelers in the team. This includes code to generate and analyze tetrameshes, generating vertex groups for specific scenarios, and importing/exporting custom file formats. I also created interfaces for geometric libraries (from C to Python), and my last project was a custom nodes system to automate exporting to a proprietary engine."
         # [[params.experience.list.items]]
         # details = "Lorem ipsum dolor sit amet, consectetuer."
         # [[params.experience.list.items]]
@@ -136,13 +138,13 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "UX Design/Developer"
         dates = "2021 - Present"
         company = "Astraios"
-        details = "My role at Astraios involves designing, coding, and maintaining the administration dashboard, the customer app, and the internal guards app. These were originally developed in React and React Native, currently, I am finishing porting them to Flutter to improve maintainability and performance."
+        details = "My role at Astraios involves design, code, and maintenance for the administrative dashboard, the customer app, and the internal guards utility. I developed the first iteration of these applications in React and React Native, and I am currently porting them to Flutter to improve maintainability and performance."
 
         [[params.experience.list]]
         title = "Python Developer"
         dates = "2014 - Present"
         company = "Freelance"
-        details = "My experience includes developing servers using Flask/Bottle and scripting for Blender (simple scripts, drivers, and addons). I've worked on automating pipelines (from base model to 3D print), consulting and reviewing, automating the generation and rendering of objects and scenes, as well as importing lesser-known file formats into Blender. "
+        details = "My experience includes developing servers using Flask/Bottle and scripting for Blender (simple scripts, drivers, and addons). I've also worked on automated pipelines (from base model to 3D print), consulting and reviewing, generation and render of objects and scenes through code, as well as importing lesser-known file formats into Blender. "
 
         [[params.experience.list]]
         title = "3D Artist"
@@ -177,14 +179,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "GTG"
         meta = "Open Source"
-        tagline = "Task organization application for the GNOME desktop, written in Python using GTK4. I took over as the code maintainer in late 2019. Afterwards, I finished the migration to Gtk3, a transition to lxml and a cleaner file format. Currently finishing a complete rewrite of the core logic along with a migration to GTK4."
+        tagline = "Task organization application for the GNOME desktop, written in Python with GTK4. I took over as the code maintainer in late 2019. Afterwards, I finished the migration to Gtk3, a transition to lxml and a cleaner file format. Currently finishing a complete rewrite of the core logic along with a migration to GTK4."
         url = "//github.com/getting-things-gnome/gtg"
         link = "Github Repo"
 
         [[params.projects.list]]
         title = "Pangu"
         meta = "Open Source"
-        tagline = "Terrain Generation engine using fractal noise with support for hydraulic and thermal erosion. Written in Rust and exposed as a Python module using PyO3. It was used in a Blender add-on called Mirage. I've discontinued the add-on as I didn't have time to maintain it, but I kept the engine public as study material for others."
+        tagline = "Terrain Generation engine using fractal noise with support for hydraulic and thermal erosion. Written in Rust and exposed as a Python module through PyO3. It was used in a Blender add-on called Mirage. I've discontinued the add-on but I'm keeping the engine public as study material for others."
         url = "//github.com/diegogangl/Pangu"
         link = "Github Repo"
 
